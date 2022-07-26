@@ -68,4 +68,13 @@ h2 {
   margin-left: 500px;
 }
 
+.productos_container {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  background-color: red;
+  padding: 10px;
+  gap: 30px;
+}
+
 /*# sourceMappingURL=style.css.map */
