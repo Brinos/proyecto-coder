@@ -71,10 +71,56 @@ h2 {
 .productos_container {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
-  background-color: red;
+  grid-template-columns: repeat(auto-fill, minmax(18rem, 2fr));
+  background-color: whitesmoke;
   padding: 10px;
   gap: 30px;
 }
+
+.productos_container_2 {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(18rem, 2fr));
+  background-color: whitesmoke;
+  padding: 10px;
+  gap: 30px;
+}
+
+.productos_container_3 {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(18rem, 2fr));
+  background-color: whitesmoke;
+  padding: 10px;
+  gap: 30px;
+}
+
+.productos_container_4 {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(18rem, 2fr));
+  background-color: whitesmoke;
+  padding: 10px;
+  gap: 30px;
+}
+
+.productos_container_5 {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(18rem, 2fr));
+  background-color: whitesmoke;
+  padding: 10px;
+  gap: 30px;
+}
+
+.productos_container_6 {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(18rem, 2fr));
+  background-color: whitesmoke;
+  padding: 10px;
+  gap: 30px;
+}
+
 
 /*# sourceMappingURL=style.css.map */
